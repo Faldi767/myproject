@@ -6,6 +6,7 @@ django-widget-tweaks==1.4.12
 filelock==3.9.0
 Markdown==3.4.1
 platformdirs==2.6.2
+psycopg2==2.9.5
 python-decouple==3.7
 sqlparse==0.4.3
 tzdata==2022.7
